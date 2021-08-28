@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JWl4TZ66n0iZ8NrFofAaIrJVMSPWrZapwwwrLDYqTN9dcsDnF7dQHoRPvf/L/ilnj3H2qujyrmLUE9WvNVCuvA==",
+  "success": true,
+  "projectFilePath": "/home/xelorabb/Workspace/test-projects/hello_worlds/HWCS/HWCS.csproj",
+  "expectedPackageFiles": [
+    "/home/xelorabb/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
